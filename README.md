@@ -1,6 +1,6 @@
 # Create-New-Users-with-PowerShell-Log-into-the-domain
 
-<p align="center">
+<p align="left">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 <img src="https://i.imgur.com/4OWmnpF.png" alt="PowerShell ISE Logo"/>
 </p>
