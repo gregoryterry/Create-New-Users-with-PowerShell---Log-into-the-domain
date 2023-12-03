@@ -6,7 +6,7 @@
 </p>
 
 <h1>Create several domain users and attempt to log into client GTWS-01 (Azure)</h1>
-This tutorial outlines the creation for new users using PowerShell on Azure Virtual Machines.<br />
+This tutorial outlines the creation of new users using PowerShell on Azure Virtual Machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
